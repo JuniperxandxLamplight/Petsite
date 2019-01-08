@@ -15,8 +15,8 @@ _This site was made to practice the basics of HTML, and give all pets the digita
 * _in terminal add your pet page with touch (your pet).html_
 * _add an img tag with link to picture and alt description if it doesn't load_
 * _create a list about your pet with ul_
-* _add HTML hyperlink with href="home.html" to top of page_
-* _in home.html add HTML hyperlink with href="yourPetPage.html"_
+* _add HTML hyperlink with href="index.html" to top of page_
+* _in index.html add HTML hyperlink with href="yourPetPage.html"_
 
 ## Known Bugs
 
